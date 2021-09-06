@@ -1,0 +1,32 @@
+@font-face {
+  font-family: "Helvetica-bold";
+  src: url(fonts/helvetica_bold1.ttf);
+  font-weight: 700; /*Bold*/
+}
+
+@font-face {
+  font-family: "Helvetica-regular";
+  src: url(fonts/Helvetica_regular.ttf);
+  font-weight: 400; /*Regular*/
+}
+
+@font-face {
+  font-family: "Avenir-heavy"; /*Heavy*/
+  src: url(fonts/avenir-heavy-1-opentype_bigfontsite.com.otf);
+}
+
+@font-face {
+  font-family: "Avenir-medium"; /*Medium*/
+  src: url(fonts/avenir-medium-1-opentype_bigfontsite.com.otf);
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: "Avenir-roman"; /*Roman*/
+  src: url(fonts/avenir-roman-opentype_bigfontsite.com.otf);
+}
+
+@font-face {
+  font-family: "Avenir-book"; /*Book*/
+  src: url(fonts/avenir-book-1-opentype_bigfontsite.com.otf);
+}
