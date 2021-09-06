@@ -101,7 +101,7 @@ h1 {
 .main-text p {
   margin-top: 50px;
 
-  font-family: Avenir;
+  font-family: "Avenir-medium";
   font-weight: 500;
   font-size: 18px;
   line-height: 160%; /* or 29px */
@@ -152,7 +152,7 @@ h1 {
 
 .pink h2 {
   color: #212353;
-  font-family: Helvetica;
+  font-family: "Helvetica-bold";
   font-weight: bold; /* 700 */
   font-size: 40px;
   line-height: 130%; /* or 52px */
@@ -195,7 +195,7 @@ article {
 }
 
 .features article h2 {
-  font-family: "Helvetica";
+  font-family: "Helvetica-bold";
   font-weight: bold;
   font-size: 40px;
   line-height: 130%; /* identical to box height, or 52px */
